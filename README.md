@@ -25,6 +25,6 @@ source venv/bin/activate  # On Windows: venv\\Scripts\\activate
 pip install -r requirements.txt
 ```
 
-##💡 Contributing
+## 💡 Contributing
 
 Fork this repository and submit pull requests. Contributions are welcome! 😊
